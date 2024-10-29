@@ -164,3 +164,36 @@
 //    return arr;
 // }
 
+// 18-masala
+
+// function DisjoinTheYoungAndTheOld(arr, age) {
+//     let forElders = [];
+//     for(let i = 0; i < arr.length; i++){
+//         if (arr.age > age) {
+//             forElders.push(arr)
+//         }
+//     }
+//     return forElders
+// }
+
+// 19-masala
+
+// function howManyTimesItMetsUp(arr, element) {
+//     let counter = 0;
+//     for(let i = 0; i < arr.length; i++){
+//         if (element == arr[i]){
+//             counter++
+//         }
+//     }
+//     return counter
+// }
+
+// 20-masala
+
+// function acceptTwoStringsAndSplitTheirLetters(str1, str2) {
+//     let res= str1.concat(str2).split("")
+//     return res
+// }
+
+
+
